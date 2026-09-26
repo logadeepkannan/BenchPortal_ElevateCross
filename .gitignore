@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+api/node_modules
+api/local.settings.json
+api/bin
+api/obj
+server/node_modules
+server/.env

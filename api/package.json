@@ -1,0 +1,14 @@
+{
+  "name": "bench-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "src/functions/*.js",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "@azure/functions": "^4.5.1",
+    "@azure/msal-node": "^2.13.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "",
+
+    "GRAPH_TENANT_ID": "your-tenant-id-or-domain.onmicrosoft.com",
+    "GRAPH_CLIENT_ID": "backend-app-registration-client-id",
+    "GRAPH_CLIENT_SECRET": "backend-app-registration-client-secret",
+
+    "SP_HOSTNAME": "contoso.sharepoint.com",
+    "SP_SITE_PATH": "/sites/BenchPortal",
+
+    "ALLOWED_ORIGIN": "http://localhost:5173"
+  }
+}
